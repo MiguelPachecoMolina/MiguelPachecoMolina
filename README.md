@@ -39,9 +39,12 @@ Soy estudiante de ultimoas semestres la **Licenciatura en Ciencias de Datos** en
   <!-- TensorFlow -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" title="TensorFlow"/>
 
-  <h4>Big Data & Visualización</h4>
+  <h4>Big Data, Cloud & Visualización</h4>
   <!-- Apache Spark -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="40" alt="Apache Spark" title="Apache Spark"/>
+  <img width="15" />
+  <!-- Google Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" title="Google Cloud Platform"/>
   <img width="15" />
   <!-- Power BI -->
   <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" alt="Power BI" title="Power BI"/>
