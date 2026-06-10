@@ -19,6 +19,15 @@ Soy estudiante de ultimoas semestres la **Licenciatura en Ciencias de Datos** en
 
 ---
 
+## 📜 Formación Continua y Certificaciones
+
+*   ☁️ **Google Cloud Computing Foundations Certificate** (2025)
+*   📊 **Microsoft Power BI Analyst Professional Certificate** (En curso)
+*   🚀 **SQL Basic for Data Science UC Davis** (2026)
+*   🌐 **Inglés Técnico:** Formación activa (Nivel 6) y participación en el Bécalos English Challenge.
+
+---
+
 ## 🛠️ Stack Tecnológico
 
 <div align="center">
