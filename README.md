@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hola,%20soy%20Miguel%20Pacheco%20%F0%9F%91%8B&fontSize=45&fontAlignY=40)
 
-<h3 align="center">Estudiante en Ciencia de Datos</h3>
+<h3 align="center">Estudiante de Ciencia de Datos - ESCOM - IPN</h3>
 
 <p align="center">
   <!-- IMPORTANTE: Cambia "TU_USUARIO_DE_GITHUB" por tu nombre de usuario real en la siguiente línea -->
@@ -21,10 +21,10 @@ Soy estudiante de ultimoas semestres la **Licenciatura en Ciencias de Datos** en
 
 ## 📜 Formación Continua y Certificaciones
 
-*   ☁️ **Google Cloud Computing Foundations Certificate** (2025)
-*   📊 **Microsoft Power BI Analyst Professional Certificate** (En curso)
-*   🚀 **Learn SQL Basics for Data Science UC Davis** (2026)
-*   🌐 **Inglés Técnico:** Formación activa (Nivel 6) y participación en el Bécalos English Challenge.
+*  **Google Cloud Computing Foundations Certificate** (2025)
+*  **Microsoft Power BI Analyst Professional Certificate** (En curso)
+*  **Learn SQL Basics for Data Science UC Davis** (2026)
+*  **Inglés Técnico:** Formación activa (Nivel 6) y participación en el Bécalos English Challenge.
 
 ---
 
@@ -93,5 +93,5 @@ Proyecto de investigación y análisis de datos en entornos urbanos.
 
 Si te interesa mi perfil o quieres hablar sobre datos, no dudes en contactarme:
 
-*   **LinkedIn:** [Tu Nombre en LinkedIn]( PON AQUÍ TU LINK DE LINKEDIN )
-*   **Email:** [tu.correo@ejemplo.com](mailto:tu.correo@ejemplo.com)
+*   **LinkedIn:** [Miguel Alejandro Pacheco Molina](www.linkedin.com/in/miguel-alejandro-pacheco-molina-1013b0200)
+*   **Email:** [pachecomolinamiguelalejandro2@gmail.com](mailto:pachecomolinamiguelalejandro2@gmail.com)
