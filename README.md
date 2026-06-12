@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- IMPORTANTE: Cambia "TU_USUARIO_DE_GITHUB" por tu nombre de usuario real en la siguiente línea -->
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_DE_GITHUB&label=Vistas+del+Perfil&color=0e75b6&style=flat" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=MiguelPachecoMolina&label=Vistas+del+Perfil&color=0e75b6&style=flat" alt="Contador de visitas" />
 </p>
 
 ---
@@ -15,16 +15,15 @@ Soy estudiante de ultimoas semestres la **Licenciatura en Ciencias de Datos** en
 
 *   🎓 **Educación:** Actualmente cursando semestres avanzados en ESCOM. Previamente egresado del CECyT 9.
 *   🚀 **Objetivo:** Buscando oportunidades como becario (internship) en Data Science o Data Analysis para aplicar y expandir mis conocimientos en entornos corporativos.
-*   🧠 **Intereses:** Deep Learning, Análisis de Series de Tiempo, Arquitecturas Transformer y Big Data.
+*   🧠 **Intereses:** Deep Learning, Análisis de Series de Tiempo, Arquitecturas Transformer, Procesamiento de Lenguaje Natural y Big Data.
 
 ---
 
 ## 📜 Formación Continua y Certificaciones
 
 *  **Google Cloud Computing Foundations Certificate** (2025)
-*  **Microsoft Power BI Analyst Professional Certificate** (En curso)
+*  **Microsoft Power BI Analyst Professional Certificate** (6/8 cursos)
 *  **Learn SQL Basics for Data Science UC Davis** (2026)
-*  **Inglés Técnico:** Formación activa (Nivel 6) y participación en el Bécalos English Challenge.
 
 ---
 
@@ -45,8 +44,6 @@ Soy estudiante de ultimoas semestres la **Licenciatura en Ciencias de Datos** en
   <!-- Scikit-learn -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn" title="Scikit-learn"/>
   <img width="15" />
-  <!-- TensorFlow -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" title="TensorFlow"/>
 
   <h4>Big Data, Cloud & Visualización</h4>
   <!-- Apache Spark -->
@@ -88,10 +85,10 @@ Clasificación automática de opiniones en e-commerce para distinguir entre leng
 * **Tecnologías:** Python, NLTK, Scikit-learn, TF-IDF, GloVe, Machine Learning.
 * **Descripción:** Implementación de técnicas de Procesamiento de Lenguaje Natural para el análisis de un corpus balanceado de 40,000 reseñas. Se evaluaron representaciones estadísticas (TF-IDF con bigramas) frente a embeddings semánticos densos (GloVe), demostrando que el enfoque estadístico optimizado con Regresión de Huber y SVM logra una precisión superior al 92% en la detección de texto artificial.
 
-### 🌱 [Gestión Sostenible de Residuos Orgánicos]( PON AQUÍ TU LINK AL REPO )
-Proyecto de investigación y análisis de datos en entornos urbanos.
-*   **Descripción:** Definición de metodología y pruebas de hipótesis para proponer soluciones viables al manejo de residuos orgánicos en los mercados de la Ciudad de México.
-
+### ♻️ [Clasificación de Residuos con Visión por Computadora](https://github.com/MiguelPachecoMolina/clasificador-residuos-resnet50)
+Sistema de visión artificial para clasificar basura doméstica en 12 categorías y automatizar procesos de reciclaje.
+* **Tecnologías:** Python, PyTorch (ResNet50), Scikit-learn (LDA).
+* **Descripción:** Implementación de Transfer Learning utilizando una Red Neuronal Convolucional (ResNet50) como extractor de características de alta dimensionalidad sobre un conjunto de 15,150 imágenes, acoplado a un modelo de Análisis Discriminante Lineal (LDA) para lograr una separación óptima y clasificación final multiclase.
 ---
 
 ## 📫 Contacto
