@@ -83,10 +83,10 @@ Análisis comparativo enfocado en la clasificación binaria (blasto/no-blasto) e
 *   **Tecnologías:** Python, TensorFlow.
 *   **Descripción:** Desarrollo e implementación de arquitecturas basadas en Redes Neuronales Convolucionales (CNN) y Vision Transformers para el análisis y clasificación precisa de imágenes médicas.
 
-### 🚇 [Predicción de Afluencia del Metro CDMX]( PON AQUÍ TU LINK AL REPO )
-Modelo predictivo para estimar la cantidad de usuarios en la red de transporte.
-*   **Tecnologías:** Python, Modelos Estadísticos, Scikit-learn.
-*   **Descripción:** Análisis de series de tiempo, descomposición de tendencias y evaluación de modelos utilizando arquitecturas SARIMAX basadas en datos históricos de afluencia del año 2023.
+### 🚇 [Predicción de Afluencia del Metro CDMX](https://github.com/MiguelPachecoMolina/prediccion-afluencia-metro-cdmx)
+Modelado predictivo y análisis avanzado de series de tiempo para estimar la demanda diaria de usuarios en la red de transporte.
+* **Tecnologías:** Python, Statsmodels, Scikit-learn, Modelos Estadísticos (SARIMAX).
+* **Descripción:** Análisis exploratorio, pruebas de estacionariedad (ADF) y descomposición de componentes temporales sobre registros históricos. Implementación de modelos univariados optimizados mediante Grid Search y evolución hacia una arquitectura SARIMAX con variables exógenas (`es_festivo`) para mitigar la heterocedasticidad en días de asueto, logrando reducir el RMSE general y optimizar el pronóstico en fechas complejas.
 
 ### 🌱 [Gestión Sostenible de Residuos Orgánicos]( PON AQUÍ TU LINK AL REPO )
 Proyecto de investigación y análisis de datos en entornos urbanos.
