@@ -73,7 +73,7 @@ Soy estudiante de ultimoas semestres la **Licenciatura en Ciencias de Datos** en
 
 ## 📂 Proyectos Destacados
 
-### 🏦 [Detección de Fraude en Transacciones Bancarias]( PON AQUÍ TU LINK AL REPO )
+### 🏦 [Detección de Fraude en Transacciones Bancarias](https://github.com/MiguelPachecoMolina/deteccion-fraude-bancario)
 Enfoque híbrido para identificar transacciones anómalas en conjuntos de datos altamente desbalanceados.
 *   **Tecnologías:** Python, Scikit-learn, Imbalanced-learn, Minisom.
 *   **Descripción:** Integración de aprendizaje supervisado (Random Forest) y no supervisado (K-Means, Mapas Autoorganizados) utilizando SMOTE para la mitigación del desbalance de clases y la creación de nuevas características geométricas.
