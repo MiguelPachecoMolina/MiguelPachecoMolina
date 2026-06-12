@@ -78,15 +78,15 @@ Enfoque híbrido para identificar transacciones anómalas en conjuntos de datos 
 *   **Tecnologías:** Python, Scikit-learn, Imbalanced-learn, Minisom.
 *   **Descripción:** Integración de aprendizaje supervisado (Random Forest) y no supervisado (K-Means, Mapas Autoorganizados) utilizando SMOTE para la mitigación del desbalance de clases y la creación de nuevas características geométricas.
 
-### 🔬 [Trabajo Terminal: Clasificación de Células Blásticas]( PON AQUÍ TU LINK AL REPO )
-Análisis comparativo enfocado en la clasificación binaria (blasto/no-blasto) en frotis de sangre.
-*   **Tecnologías:** Python, TensorFlow.
-*   **Descripción:** Desarrollo e implementación de arquitecturas basadas en Redes Neuronales Convolucionales (CNN) y Vision Transformers para el análisis y clasificación precisa de imágenes médicas.
-
 ### 🚇 [Predicción de Afluencia del Metro CDMX](https://github.com/MiguelPachecoMolina/prediccion-afluencia-metro-cdmx)
 Modelado predictivo y análisis avanzado de series de tiempo para estimar la demanda diaria de usuarios en la red de transporte.
 * **Tecnologías:** Python, Statsmodels, Scikit-learn, Modelos Estadísticos (SARIMAX).
 * **Descripción:** Análisis exploratorio, pruebas de estacionariedad (ADF) y descomposición de componentes temporales sobre registros históricos. Implementación de modelos univariados optimizados mediante Grid Search y evolución hacia una arquitectura SARIMAX con variables exógenas (`es_festivo`) para mitigar la heterocedasticidad en días de asueto, logrando reducir el RMSE general y optimizar el pronóstico en fechas complejas.
+
+### 🕵️‍♂️ [Detección de Reseñas Falsas mediante PLN](https://github.com/MiguelPachecoMolina/nlp-fake-review-detection)
+Clasificación automática de opiniones en e-commerce para distinguir entre lenguaje humano y texto generado por bots.
+* **Tecnologías:** Python, NLTK, Scikit-learn, TF-IDF, GloVe, Machine Learning.
+* **Descripción:** Implementación de técnicas de Procesamiento de Lenguaje Natural para el análisis de un corpus balanceado de 40,000 reseñas. Se evaluaron representaciones estadísticas (TF-IDF con bigramas) frente a embeddings semánticos densos (GloVe), demostrando que el enfoque estadístico optimizado con Regresión de Huber y SVM logra una precisión superior al 92% en la detección de texto artificial.
 
 ### 🌱 [Gestión Sostenible de Residuos Orgánicos]( PON AQUÍ TU LINK AL REPO )
 Proyecto de investigación y análisis de datos en entornos urbanos.
