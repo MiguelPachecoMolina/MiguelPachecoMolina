@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hola,%20soy%20Miguel%20Pacheco%20%F0%9F%91%8B&fontSize=45&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hola,%20soy%20Miguel%20Pacheco%20%E2%9D%95&fontSize=45&fontAlignY=40)
+
 
 <h3 align="center">Estudiante de Ciencia de Datos - ESCOM - IPN</h3>
 
