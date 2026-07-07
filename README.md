@@ -21,9 +21,12 @@ Soy estudiante de ultimoas semestres la **Licenciatura en Ciencias de Datos** en
 
 ## 📜 Formación Continua y Certificaciones
 
-*  **Google Cloud Computing Foundations Certificate** (2025)
+## 📜 Formación Continua y Certificaciones
+
+*  **[Google Cloud Computing Foundations Certificate](https://www.credly.com/badges/f5efcfd3-9e00-4096-91a0-d187f6af2f4c/public_url)** (2025)
 *  **Microsoft Power BI Analyst Professional Certificate** (6/8 cursos)
 *  **Learn SQL Basics for Data Science UC Davis** (2026)
+*  **[EF SET English Certificate B2 Upper Intermediate](https://cert.efset.org/en/CJrcyz)** (2026)
 
 ---
 
